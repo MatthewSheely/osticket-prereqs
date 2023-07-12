@@ -22,11 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Step 1: Log into Virtual Machine (Azure)
+- Step 2: Logging Into osTicket
+- Step 3: Configure Departments
+- Step 4: Setting Up Users and Agents
+- Step 5: Setting Up Teams
+- Step 6: Setup Service Level Agreements
+- Step 7: Creating Help Topics
 
 <h2>Installation Steps</h2>
 
