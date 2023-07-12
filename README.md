@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
-<img src="https://imgur.com/a/beaASSu" alt="osTicket logo"/>
+<img src="(https://i.imgur.com/9KzKViX.png)" alt="osTicket logo"/>
 
 Step 2: Configure Departments
 Admin Panel -> Agents -> Departments
