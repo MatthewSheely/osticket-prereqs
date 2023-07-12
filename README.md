@@ -28,7 +28,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
 <p>
-![image](https://github.com/MatthewSheely/osticket-prereqs/assets/62641813/f0cf1998-bc39-4ae8-976a-59d9237653af)
+<img spc="https://i.imgur.com/9KzKViX.png" height="80%" width="80%" alt="Log Into osTicket"/>
+</p>
+<p>
 
 
 Step 2: Configure Departments
