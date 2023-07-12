@@ -18,36 +18,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Step 1: Log into Virtual Machine (Azure)
-- Step 2: Logging Into osTicket
-- Step 3: Configure Departments
-- Step 4: Setting Up Users and Agents
-- Step 5: Setting Up Teams
-- Step 6: Setup Service Level Agreements
-- Step 7: Creating Help Topics
+- Step 1: Log Into osTicket
+- Step 2: Configure Departments
+- Step 3: Configure Teams 
+- Step 4: Add Agents & Assign Roles
+- Step 5: Setup Service Level Agreements
+- Step 6: Creating Help Topics
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
+Step 1: Log Into osTicket
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 2: Configure Departments
+Admin Panel -> Agents -> Departments
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 3: Configure Teams 
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 4: Add Agents & Assign Roles
+Admin Panel -> Agents -> Roles
+
+Step 5: Configure Service Level Agreements (SLA)
+Admin Panel -> Manage -> SLA
+
+Step 6: Create Help Topics
+Admin Panel -> Manage -> Help Topics
+
+
+
+
+
+
