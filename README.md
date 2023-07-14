@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Configuration</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the configuration of the help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
-
+<p></p>
 To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure portal. Once you have logged into your VM, second log into your osTicket account using a web browser. After logging into your osTicket account third select Admin Panel, then select settings (Displayed Below)
 
 <img src="https://i.imgur.com/pzPw9pO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
