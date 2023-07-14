@@ -28,7 +28,9 @@ This tutorial outlines the configuration of the help desk ticketing system osTic
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
 <p></p>
-To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure portal. Once you have logged into your VM, second log into your osTicket account using a web browser. After logging into your osTicket account third select Admin Panel, then select settings (Displayed Below)
+To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure Portal. Once you have logged into your VM, now log into your osTicket account using a web browser. After logging into your osTicket account select Admin Panel.
+<p></p>
+- Log In
 <p></p>
 <img src="https://i.imgur.com/pzPw9pO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
