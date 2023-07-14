@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Configuration</h1>
-This tutorial outlines the configuration of the help desk ticketing system osTicket.<br />
+This tutorial outlines the configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -25,6 +25,9 @@ This tutorial outlines the configuration of the help desk ticketing system osTic
 - Step 5: Setup Service Level Agreements
 - Step 6: Creating Help Topics
 
+<h2>Installation</h2>h2>
+osTicket was installed using a Virtual Machine through Azure. This tutorial will not be covering the installation.
+<p></p>
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
 <p></p>
