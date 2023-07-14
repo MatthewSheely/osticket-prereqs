@@ -26,7 +26,7 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 - Step 6: Creating Help Topics
 
 <h2>Installation</h2>
-osTicket was installed using a Virtual Machine through(VM) Azure. This tutorial will not be covering the installation.
+osTicket was installed using a Virtual Machine through(VM) Azure. This tutorial will not be covering installation.
 <p></p>
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
@@ -47,6 +47,7 @@ To get started you will first, log into your Virtual Machine(VM), using the VM's
 <p></p>
 
 Step 2: Configure Departments
+<p></p>
 Admin Panel -> Agents -> Departments
 <p>
 <img src="https://i.imgur.com/YTBYpG3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
