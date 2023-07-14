@@ -28,10 +28,10 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 <h2>Installation</h2>
 osTicket was installed using a Virtual Machine through(VM) Azure. This tutorial will not be covering installation.
 <p></p>
-<h2>Configuration Steps</h2>
+<h2>Configuration Steps(Admin)</h2>
 Step 1: Log Into osTicket
 <p></p>
-To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure Portal. Once you have logged into your VM, now log into your osTicket account using a web browser. After logging into your osTicket account select Admin Panel.
+To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure Portal. Once you have logged into your VM, now log into your osTicket account using a web browser. After logging into your osTicket account select Admin Panel.  
 <p></p>
 - Log In
 <p></p>
@@ -47,9 +47,11 @@ To get started you will first, log into your Virtual Machine(VM), using the VM's
 <p></p>
 
 Step 2: Configure Departments
-<p></p>
-Admin Panel -> Agents -> Departments
 <p>
+Admin Panel -> Agents -> Departments
+<p></p>
+Now that we have successfully logged in, let's set up Departments. This will allow us the ability to categorize incoming tickets and establish the correct access for staff members. 
+<p></p>
 <img src="https://i.imgur.com/YTBYpG3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 
@@ -57,16 +59,16 @@ Step 3: Configure Teams
 <p></p>
 Admin Panel -> Agents -> Teams
 <p>
+Once Departments are created, Teams can be created and assigned to Departments. Each team may have a different level of access. 
+<p>  
 <img src="https://i.imgur.com/4E3ToDc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-Level I Support
-Level II Support
 <p></p>
 
 Step 4: Add Agents & Assign Roles
 <p></p>
 Admin Panel -> Agents -> Roles
 <p>
+  
 <img src="https://i.imgur.com/p1foLFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
   
