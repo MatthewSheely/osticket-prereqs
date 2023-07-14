@@ -47,8 +47,6 @@ To get started you will first, log into your Virtual Machine(VM), using the VM's
 <p></p>
 
 Step 2: Configure Departments
-</p>
-Admin Panel -> Agents -> Departments
 <p></p>
 Now that we have successfully logged in, let's set up Departments. This will allow us the ability to categorize incoming tickets and establish the correct access for staff members. 
 <p></p>
@@ -57,17 +55,15 @@ Now that we have successfully logged in, let's set up Departments. This will all
 
 Step 3: Configure Teams 
 <p></p>
-Admin Panel -> Agents -> Teams
-</p>
+
 Once Departments are created, Teams can be created and assigned to Departments. Each team may have a different level of access. 
-<p>  
+<p></p>  
 <img src="https://i.imgur.com/4E3ToDc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 
 Step 4: Add Agents & Assign Roles
-</p>
-Admin Panel -> Agents -> Roles
-<p>
+<p></p>
+
 When creating a new agent's profile or updating an existing agent's profile you will assign them to a department and team that will provide their access ability.
 <p></p>  
 <img src="https://i.imgur.com/p1foLFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -80,6 +76,7 @@ When creating a new agent's profile or updating an existing agent's profile you 
 <img src="https://i.imgur.com/YcwoHb6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 - Confirm Agents Permmissions
+<p></p>
 <img src="https://i.imgur.com/z3XxoOK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 - Select Agents Team & Create Profile
@@ -89,8 +86,6 @@ When creating a new agent's profile or updating an existing agent's profile you 
 
 Step 5: Configure Service Level Agreements (SLA)
 <p></p>
-Admin Panel -> Manage -> SLA
-<p>
 <img src="https://i.imgur.com/MxP8iWW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
