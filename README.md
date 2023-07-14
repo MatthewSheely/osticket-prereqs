@@ -30,19 +30,21 @@ Step 1: Log Into osTicket
 
 To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure portal. Once you have logged into your VM, second log into your osTicket account using a web browser. After logging into your osTicket account third select Admin Panel, then select settings (Displayed Below)
 
-<img src="https://i.imgur.com/pzPw9pO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
-
-<img src="https://i.imgur.com/bMFajag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+<img src="https://i.imgur.com/pzPw9pO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Select Admin Panel (Top Right)
+<img src="https://i.imgur.com/cdYxMM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Select Setting 
+<img src="https://i.imgur.com/bMFajag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Step 2: Configure Departments
 Admin Panel -> Agents -> Departments
 <p>
-<img src="https://i.imgur.com/p1foLFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
-</p>
-<p>Step 3: Configure Teams 
+<img src="https://i.imgur.com/YTBYpG3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Step 3: Configure Teams 
 Admin Panel -> Agents -> Teams
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+<img src="https://i.imgur.com/4E3ToDc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 Level I Support
@@ -51,19 +53,26 @@ Level II Support
 Step 4: Add Agents & Assign Roles
 Admin Panel -> Agents -> Roles
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
-</p>
-<p>
+<img src="https://i.imgur.com/p1foLFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<img src="https://i.imgur.com/5CBlcTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/YcwoHb6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/z3XxoOK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/0LfPszh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 5: Configure Service Level Agreements (SLA)
 Admin Panel -> Manage -> SLA
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+<img src="https://i.imgur.com/MxP8iWW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 6: Create Help Topics
 Admin Panel -> Manage -> Help Topics
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+<img src="https://i.imgur.com/RR8tzne.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
