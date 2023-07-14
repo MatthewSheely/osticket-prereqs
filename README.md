@@ -68,19 +68,21 @@ Step 4: Add Agents & Assign Roles
 <p></p>
 Admin Panel -> Agents -> Roles
 <p>
-  
+When creating a new agent's profile or updating an existing agent's profile you will assign them to a department and team that will provide their access ability.
+<p></p>  
 <img src="https://i.imgur.com/p1foLFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
-  
+- Add New Agent 
+<p></p>
 <img src="https://i.imgur.com/5CBlcTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
-
+- Select Department
 <img src="https://i.imgur.com/YcwoHb6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
-
+- Confirm Permmissions
 <img src="https://i.imgur.com/z3XxoOK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
-
+- Select Team
 <img src="https://i.imgur.com/0LfPszh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p></p>
 
