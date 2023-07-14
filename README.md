@@ -27,30 +27,45 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Configuration Steps</h2>
 Step 1: Log Into osTicket
-<p>
-<img spc="![image](https://github.com/MatthewSheely/osticket-prereqs/assets/62641813/94dff742-caa4-4a8f-9d9f-de9d3e29e96b)
-"/>
-</p>
-<p>
 
+To get started you will first, log into your Virtual Machine(VM), using the VM's IP address found in your Azure portal. Once you have logged into your VM, second log into your osTicket account using a web browser. After logging into your osTicket account third select Admin Panel, then select settings (Displayed Below)
+
+<img src="https://i.imgur.com/pzPw9pO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+
+<img src="https://i.imgur.com/bMFajag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
 
 Step 2: Configure Departments
 Admin Panel -> Agents -> Departments
-
-Step 3: Configure Teams 
+<p>
+<img src="https://i.imgur.com/p1foLFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+</p>
+<p>Step 3: Configure Teams 
 Admin Panel -> Agents -> Teams
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+</p>
+
 Level I Support
 Level II Support
 
 Step 4: Add Agents & Assign Roles
 Admin Panel -> Agents -> Roles
-
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+</p>
+<p>
 Step 5: Configure Service Level Agreements (SLA)
 Admin Panel -> Manage -> SLA
-
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+</p>
+<p>
 Step 6: Create Help Topics
 Admin Panel -> Manage -> Help Topics
-
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>"/>
+</p>
+<p>
 
 
 
